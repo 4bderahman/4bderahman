@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abderrahman Salmi</h1>
-<h3 align="center">A passionate programming student from Morocco</h3>
 <div id="header" align="center">
-  <img src="[https://i.redd.it/wmf4pf98d4l61.png" width="1000]>
-</div>
-<img align="right" alt="Coding" width="400" src="https://ibb.co/2W3cgxp">
+  <img src="https://i.redd.it/wmf4pf98d4l61.png" width="1000"/>
+</div><h1 align="center">Hi 👋, I'm Abderrahman Salmi</h1>
+
+<h3 align="center">A passionate programming student from Morocco</h3>
+<p align="right"> 
+  <img src="[https://komarev.com/ghpvc/?username=4bderahman&label=Profile%20views&color=0e75b6&style=flat]" alt="4bderahman" />
+</p>
 
 - 📫 How to reach me **imsiizer@gmail.com**
 
