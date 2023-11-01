@@ -3,9 +3,7 @@
 <div id="header" align="center">
   <img src="https://i.redd.it/wmf4pf98d4l61.png" width="1000"/>
 </div>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=4bderahman&label=Profile%20views&color=0e75b6&style=flat" alt="4bderahman" />
-</p>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://ibb.co/2W3cgxp)">
 
 - 📫 How to reach me **imsiizer@gmail.com**
 
