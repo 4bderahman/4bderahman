@@ -1,12 +1,11 @@
 <div id="header" align="center">
   <img src="https://i.redd.it/wmf4pf98d4l61.png" width="1000"/>
-</div><h1 align="center">Hi 👋, I'm Abderrahman Salmi</h1>
+</div>
 
+<h1 align="center">Hi 👋, I'm Abderrahman Salmi</h1>
 <h3 align="center">A passionate programming student from Morocco</h3>
-<p align="right"> 
-  <img src="[https://komarev.com/ghpvc/?username=4bderahman&label=Profile%20views&color=0e75b6&style=flat]" alt="4bderahman" />
-</p>
 
+<img align="right" src="https://i.postimg.cc/WbxF9n9F/Hacker-bro.png" alt="Hacker" width="250" />
 - 📫 How to reach me **imsiizer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +17,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4bderahman&show_icons=true&locale=en&layout=compact" alt="4bderahman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4bderahman&show_icons=true&locale=en" alt="4bderahman" /></p>
+<p><img align="left" src="https://github
