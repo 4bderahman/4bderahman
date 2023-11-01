@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahman Salmi</h1>
 <h3 align="center">A passionate programming student from Morocco</h3>
 <div id="header" align="center">
-  <img src="https://i.redd.it/wmf4pf98d4l61.png" width="1000"/>
+  <img src="[https://i.redd.it/wmf4pf98d4l61.png" width="1000]>
 </div>
 <img align="right" alt="Coding" width="400" src="https://ibb.co/2W3cgxp">
 
