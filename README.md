@@ -27,7 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?/></p>
            
 <br></br>
-<br></br>
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
